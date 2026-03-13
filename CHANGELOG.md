@@ -1,5 +1,9 @@
 # Changelog
 
+## \[4.7.1]
+
+- [`3083ea8`](https://www.github.com/tauri-apps/create-tauri-app/commit/3083ea8191e9c4c98dd014fa411fb776ea7a28ae) ([#950](https://www.github.com/tauri-apps/create-tauri-app/pull/950) by [@Legend-Master](https://www.github.com/tauri-apps/create-tauri-app/../../Legend-Master)) Fix missing tauri-cli not printed for Blazor template
+
 ## \[4.7.0]
 
 - [`8d15234`](https://www.github.com/tauri-apps/create-tauri-app/commit/8d15234e7b473afe68c8601e88f11d1646157404) ([#929](https://www.github.com/tauri-apps/create-tauri-app/pull/929) by [@Legend-Master](https://www.github.com/tauri-apps/create-tauri-app/../../Legend-Master)) Fix the `.ico` icon being blurry because of it lacks some sizes
